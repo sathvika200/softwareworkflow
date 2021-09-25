@@ -1,2 +1,2 @@
 # softwareworkflow
-It is my first project
+I am a new trainee in software workflow project
